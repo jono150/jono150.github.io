@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    background-color: beige
+}
+spam
+{
+    color: aqua;
+}
+
+ul {
+    display: inline-block;
+}
+li
+{
+    text-align: left;
+}
+img
+{
+    width: 50px;
+    margin-left: 5px;
+}
